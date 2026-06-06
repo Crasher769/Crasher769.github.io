@@ -1,2 +1,2 @@
 # Crasher769.github.io
-Personal portfolio testing
+Credit to Catppucin for the color palette!
