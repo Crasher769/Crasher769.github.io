@@ -34,7 +34,7 @@ form {
     background-color: var(--ctp-macchiato-crust);
     border-radius: 10px;
     box-shadow: 0px 0px 3px var(--ctp-macchiato-surface1);
-    font-family: "Oswald", serif;
+    font-family: serif;
     overflow-y: auto;
 }
 .section {
